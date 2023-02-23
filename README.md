@@ -1,2 +1,3 @@
-# chat_gpt
-a repository for using chat gpt on python
+# Chat GPT assistant
+
+A simple repository for a strightforward use of chat gpt on python
