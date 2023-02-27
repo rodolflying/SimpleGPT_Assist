@@ -11,8 +11,11 @@ openai package
 
 Setup
 Clone the repository to your local machine.
+
 Install the required packages using pip: pip install -r requirements.txt.
+
 Create a .env file in the root directory with your OpenAI API key in the following format: API_KEY=your-api-key.
+
 Run the script using the command: python main.py.
 
 Usage
